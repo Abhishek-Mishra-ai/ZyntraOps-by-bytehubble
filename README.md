@@ -59,7 +59,33 @@
 
 ---
 
-## 🧠 What is ZyntraOps?
+## 🏢 About ByteHubble
+
+ZyntraOps is developed under **ByteHubble**, a technology initiative focused on building AI-driven infrastructure and cloud-native platforms.
+
+### 🚀 Our Vision
+
+To reinvent how systems operate by combining:
+
+- Artificial Intelligence
+- Cloud Infrastructure
+- Automation-first engineering
+
+We aim to build systems that:
+- Detect problems automatically
+- Understand root causes intelligently
+- Fix issues without human intervention
+
+### 💡 What We Focus On
+
+- AI-powered DevOps / SRE systems
+- Autonomous infrastructure
+- Scalable cloud-native platforms
+- Intelligent observability
+
+ - Reinvent Databases with AI” is just the beginning — ByteHubble is focused on redefining how modern systems think and act.
+
+ - ## 🧠 What is ZyntraOps?
 
 ZyntraOps is an **open-source autonomous SRE platform** that brings AI-native incident management to Kubernetes. It watches your cluster 24/7, catches failures the moment they happen, performs deep root-cause analysis using a hybrid of deterministic rule logic and large language models, and executes safe remediations — all within seconds.
 
@@ -77,29 +103,6 @@ ZyntraOps automates this loop:
 → Detect → Diagnose → Decide → Fix
 
 This reduces downtime, human effort, and operational cost.
-
-
-## 🧭 Positioning
-
-ZyntraOps is similar to:
-
-- Kubernetes Operators
-- SRE automation tools
-- Incident management systems
-
-But different because:
-- Uses AI for RCA
-- Fully automated remediation
-- Built-in safety guardrails
-
-
-## 🚀 Future Vision
-
-ZyntraOps aims to become:
-
-- Fully autonomous SRE system
-- Multi-cluster AI operations platform
-- Self-learning infrastructure engine
 
 ```
 Traditional SRE Workflow            ZyntraOps Workflow

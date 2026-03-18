@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="docs/assets/WhatsApp Image 2026-03-18 at 13.16.32.jpeg" alt="ByteHubble Logo" width="300"/>
+  <img src="docs/WhatsApp Image 2026-03-18 at 13.16.32.jpeg" alt="ByteHubble Logo" width="300"/>
 </p>
 
 <h1 align="center">ZyntraOps</h1>

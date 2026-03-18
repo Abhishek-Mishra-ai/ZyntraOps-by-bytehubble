@@ -22,6 +22,11 @@
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
+![Version](https://img.shields.io/badge/version-v0.1.0--beta-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![Kubernetes](https://img.shields.io/badge/kubernetes-ready-blue)
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 [![GitHub Stars](https://img.shields.io/github/stars/yourusername/zyntraops?style=flat-square)](https://github.com/yourusername/zyntraops/stargazers)
 [![Contributors](https://img.shields.io/github/contributors/yourusername/zyntraops?style=flat-square)](https://github.com/yourusername/zyntraops/graphs/contributors)
@@ -46,6 +51,42 @@
 ZyntraOps is an **open-source autonomous SRE platform** that brings AI-native incident management to Kubernetes. It watches your cluster 24/7, catches failures the moment they happen, performs deep root-cause analysis using a hybrid of deterministic rule logic and large language models, and executes safe remediations — all within seconds.
 
 It is not just another monitoring tool. ZyntraOps closes the entire loop: from **detection → diagnosis → decision → action → validation**, with a full audit trail and real-time dashboard.
+
+
+## ❗ Why ZyntraOps?
+
+Modern Kubernetes systems fail frequently.
+
+But current workflow is slow:
+- Alert → Engineer → Debug → Fix
+
+ZyntraOps automates this loop:
+→ Detect → Diagnose → Decide → Fix
+
+This reduces downtime, human effort, and operational cost.
+
+
+## 🧭 Positioning
+
+ZyntraOps is similar to:
+
+- Kubernetes Operators
+- SRE automation tools
+- Incident management systems
+
+But different because:
+- Uses AI for RCA
+- Fully automated remediation
+- Built-in safety guardrails
+
+
+## 🚀 Future Vision
+
+ZyntraOps aims to become:
+
+- Fully autonomous SRE system
+- Multi-cluster AI operations platform
+- Self-learning infrastructure engine
 
 ```
 Traditional SRE Workflow            ZyntraOps Workflow

@@ -3,11 +3,6 @@
   <img src="docs/WhatsApp Image 2026-03-18 at 13.16.32.jpeg" alt="ByteHubble Logo" width="300"/>
 </p>
 
-<h1 align="center">ZyntraOps</h1>
-
-<p align="center">
-  AI-powered Kubernetes Self-Healing SRE Platform
-</p>
 
 
 
